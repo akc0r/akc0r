@@ -52,13 +52,20 @@ Je conçois des produits numériques complets, de l'interface utilisateur léch�
 
 ---
 
+## 🐍 Mon Snake de Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akc0r/akc0r/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 📊 Performance & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=vibrant_purple&bg_color=ffffff&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=vibrant_purple&bg_color=ffffff&hide_border=true&title_color=7C3AED&text_color=4B5563" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ack0r&show_icons=true&theme=vibrant_purple&bg_color=ffffff&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ack0r&layout=compact&theme=vibrant_purple&bg_color=ffffff&hide_border=true&title_color=7C3AED&text_color=4B5563" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=ffffff&color=7C3AED&line=7C3AED&point=E5E7EB&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ack0r&bg_color=ffffff&color=7C3AED&line=7C3AED&point=E5E7EB&area=true&hide_border=true" width="100%" />
 </p>
