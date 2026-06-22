@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Julien%20Glin&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Julien Glin — Software Engineer, AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Julien%20Glin&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer&descSize=20&descAlignY=58" width="100%" alt="AKC0R — Software Engineer, AI Engineer" />
 </p>
 
 <p align="center">
